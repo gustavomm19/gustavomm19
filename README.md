@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo Márquez Malave</h1>
 <h3 align="center">I am a Computers Engineer, Cibersecurity Analist and Full-Stack developer.</h3>
 <h3 align="center">I love learning about new technologies 💻⚙️ space 👨‍🚀🔭 and science 🗜️⚗️</h3>
+<h3 align="center">My hobbies are playing guitar 🎸🎼 and playing videogames 🎮🕹️</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
