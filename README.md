@@ -45,8 +45,8 @@
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
-<div class="systems-testing">
- <div class="systems">
+<div class="systems-testing" style="display: flex; gap: 10px;">
+ <div class="systems" style="flex: 1;">
   <h3 align="left">Systems:</h3>
   <p align="left">
    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
@@ -57,7 +57,7 @@
   </p>
  </div>
 
- <div class="testing">
+ <div class="testing" style="flex: 1;">
   <h3 align="left">Testing:</h3>
   <p align="left">
   <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
